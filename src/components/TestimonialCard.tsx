@@ -6,7 +6,7 @@ const TestimonialCard = (props: any) => {
         <p className="overflow-hidden text-ellipsis text-sm leading-[1.3rem]">{props.review}</p>
 
         <div className="flex gap-2 items-center">
-            <img src="/src/assets/user.png" className="h-8 w-8" />
+            <img src="assets/user.png" className="h-8 w-8" />
 
             <div className="flex flex-col gap-1">
                 <div className="flex">

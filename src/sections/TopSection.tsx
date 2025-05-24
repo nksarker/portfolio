@@ -21,7 +21,7 @@ const TopSection = () => {
             </div>
 
             <div className="h-[320px] w-[300px] mr-16 overflow-hidden rounded-full">
-                <img src="src/assets/profile.png" alt="Niloy Kumer" title="Niloy Kumer" className="h-full object-cover hover:scale-110 ease-in duration-200 transition-transform cursor-pointer" />
+                <img src="assets/profile.png" alt="Niloy Kumer" title="Niloy Kumer" className="h-full object-cover hover:scale-110 ease-in duration-200 transition-transform cursor-pointer" />
             </div>
         </div>
 

@@ -5,7 +5,7 @@ const Card = (props: any) => {
         <div className="flex flex-col gap-2 w-full">
             <div className="h-[300px] mb-2 rounded-xl overflow-hidden cursor-pointer">
                 <a href={`${props.link}`}>
-                  <img src={`/src/assets/${props.image}`} 
+                  <img src={`/assets/${props.image}`} 
                     title={props.heading} 
                     alt={props.heading} 
                     className=" hover:scale-110 transition-transform duration-200 ease-in h-full object-cover" 
