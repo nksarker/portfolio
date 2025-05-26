@@ -7,9 +7,9 @@ const WebSection = () => {
             
             <div className="flex flex-col gap-8">
                 <div className="flex gap-8 justify-between w-full">
-                    <Card heading="HumorHive" subHeading="React.js, Tailwind-css" image="mippa.jpg" link="" />
-                    <Card heading="Rahat Medical App" subHeading="React JS" image="rahat.png" link="" />
-                    <Card heading="Green N Eco" subHeading="React JS" image="green.jpg" link="" />
+                    <Card heading="CatchSwipe" subHeading="React.js, Tailwind-css" image="catchswipe.png" link="https://catchswipe.vercel.app/" />
+                    <Card heading="HumorHive" subHeading="React.js" image="humorhive.png" link="https://github.com/nksarker/humor-hive" />
+                    <Card heading="Boisell" subHeading="HTML, CSS, PHP" image="boisell.png" link="https://github.com/nksarker/Boisell" />
                 </div>
             </div>
         </div>

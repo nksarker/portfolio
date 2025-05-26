@@ -12,7 +12,7 @@ const Card = (props: any) => {
                   />
                 </a>
               </div>
-            <h4 className="font-semibold text-md"><a href="#">{props.heading}</a></h4>
+            <h4 className="font-semibold text-md"><a href={props.link}>{props.heading}</a></h4>
             <p className="font-normal text-sm">{props.subHeading}</p>
         </div>
   )
